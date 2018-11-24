@@ -1,3 +1,3 @@
 This is just a practise repository.
 
-Learn enough fit to be dangerous course.
+Learn enough git to be dangerous course.
